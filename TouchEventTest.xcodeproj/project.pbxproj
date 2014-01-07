@@ -21,6 +21,7 @@
 		F8456E50187AFF710001BECA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8456E32187AFF710001BECA /* UIKit.framework */; };
 		F8456E58187AFF710001BECA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F8456E56187AFF710001BECA /* InfoPlist.strings */; };
 		F8456E5A187AFF710001BECA /* TouchEventTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F8456E59187AFF710001BECA /* TouchEventTestTests.m */; };
+		F8456E64187AFF8B0001BECA /* football.png in Resources */ = {isa = PBXBuildFile; fileRef = F8456E63187AFF8B0001BECA /* football.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		F8456E55187AFF710001BECA /* TouchEventTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TouchEventTestTests-Info.plist"; sourceTree = "<group>"; };
 		F8456E57187AFF710001BECA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F8456E59187AFF710001BECA /* TouchEventTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TouchEventTestTests.m; sourceTree = "<group>"; };
+		F8456E63187AFF8B0001BECA /* football.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = football.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		F8456E34187AFF710001BECA /* TouchEventTest */ = {
 			isa = PBXGroup;
 			children = (
+				F8456E63187AFF8B0001BECA /* football.png */,
 				F8456E3D187AFF710001BECA /* AppDelegate.h */,
 				F8456E3E187AFF710001BECA /* AppDelegate.m */,
 				F8456E40187AFF710001BECA /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			files = (
 				F8456E47187AFF710001BECA /* Images.xcassets in Resources */,
 				F8456E39187AFF710001BECA /* InfoPlist.strings in Resources */,
+				F8456E64187AFF8B0001BECA /* football.png in Resources */,
 				F8456E42187AFF710001BECA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
